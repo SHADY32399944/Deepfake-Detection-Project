@@ -1,0 +1,11 @@
+image_path,label,identity_id,generator_type
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\fake\img0.jpg,1,fake,faceswap
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\fake\img1.jpg,1,fake,faceswap
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\fake\img2.jpg,1,fake,faceswap
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\fake\img3.jpg,1,fake,faceswap
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\fake\img4.jpg,1,fake,faceswap
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\real\img0.jpg,0,real,real
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\real\img1.jpg,0,real,real
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\real\img2.jpg,0,real,real
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\real\img3.jpg,0,real,real
+C:\Users\user\Desktop\Deeptrack\Model_benchmark\dataset\images\real\img4.jpg,0,real,real
